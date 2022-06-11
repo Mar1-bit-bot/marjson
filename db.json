@@ -1,7 +1,5 @@
 {
-  "nom":"Acharifi",
-  "prenom":"Marouane",
-  "email":"marouane5acharifi@gmail.com",
-  "tel":"0650944873",
-  "analyse":["EDTA","SST","CAT"]
+  "profil":"Acharifi Marouane",
+  "post":"6",
+  "comments":["EDTA","SST","CAT"]
 }
